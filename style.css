@@ -1,0 +1,21 @@
+.bg-blue{
+    background-color: #023e8a;
+}
+.blueText{
+    color:#023e8a;
+}
+body{
+    background-color: #90e0ef;
+}
+.font-md{
+    font-size: 1.2rem;
+}
+.effect:hover{
+    background-color: #90e0ef;
+    color: #023e8a;
+}
+.effect:focus{
+    background-color: #023e8a;
+    color: white;
+    box-shadow: none;
+}

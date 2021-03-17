@@ -19,3 +19,6 @@ body{
     color: white;
     box-shadow: none;
 }
+.pad{
+    padding: 4px 16px;
+}
